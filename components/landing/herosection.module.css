@@ -1,0 +1,46 @@
+.herosection {
+    display: flex;
+    margin-left: 5%;
+}
+.heading {
+    font-size: 36px;
+}
+.heroheadingtext {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 50px;
+}
+.leftherosection {
+    font-size: 14px;
+}
+.buttons {
+    display: flex;
+    gap: 20px;
+    margin-bottom: -60px;
+}
+.getstartedbutton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: #fff;
+}
+.learnmore {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    color: #000;
+    background-color: var(--color-orange);
+    border-radius: 10px;
+    width: 80px;
+    height: 20px;
+}
+.tanfbenefits {
+    display: flex;
+    gap: 10px;
+}
+.womancard {
+    margin-left: 15%;
+    margin-top: 30px;
+}
