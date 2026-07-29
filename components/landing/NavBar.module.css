@@ -1,0 +1,40 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    
+}
+.leftnavlinks {
+    display: flex;
+    gap: 20px;
+    margin-top: 24px;
+    margin-left: -45%;
+    font-size: 12px;
+    list-style: none;
+}
+.logoname {
+    color: #000;
+}
+.Oauth {
+    display: flex;
+    gap: 20px;
+    padding-right: 100px;
+    color: #000;
+
+}
+.signIn {
+    width: 40px;
+}
+.getstartedbutton {
+    margin-top: 20px;
+    background-color: #fff;
+    font-size: 10px;
+    font-family: var(--font-primary);
+    font-weight: var(--weight-black);
+    border: none;
+    background-color: var(--color-orange);
+    border-radius: 30px;
+    height: 20px;
+    width: 80px;
+}
