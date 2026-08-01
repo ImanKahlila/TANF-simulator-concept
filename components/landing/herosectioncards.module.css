@@ -1,0 +1,81 @@
+.appfeatures {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.featurecards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.cardone {
+    width: 22%;
+    height: 370px;
+    border: none;
+    background-color: #efefef;
+    border-radius: 20px;
+
+}
+.cardtwo {
+    width: 22%;
+    height: 380px;
+    border-radius: 20px;
+    background-color: #efefef;
+}
+.cardthree {
+
+    width: 22%;
+    height: 370px;
+    border-radius: 20px;
+    background-color: #efefef;
+}
+.financialservices {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    margin-bottom: -25px;
+    margin-top: 20px;
+}
+.fintech {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.financialtransactions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 12px;
+    
+}
+.billpayment {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 14px;
+    margin-top: 45px;
+    font-size: 12px;
+}
+.savings {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -10px;
+    font-size: 12px;
+}
+.benefits {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -5px;
+    font-size: 12px;
+}
