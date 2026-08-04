@@ -1,0 +1,15 @@
+.fintechsection {
+    display: flex;
+}
+.becomeatoolforpayment,
+.span {
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+.checkmarkicon{
+    
+    filter: invert(79%) sepia(13%) saturate(1143%) hue-rotate(90deg) brightness(86%) contrast(90%);
+}
