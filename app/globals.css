@@ -5,11 +5,12 @@
 :root {
   /* ---- 1. Font (single family, weight does the work of a 2nd "font") ---- */
   --font-primary: 'Montserrat', sans-serif;
+ 
 
   /* ---- 2. Base color palette (3 colors) ---- */
   --color-orange: #FF8100;
   --color-cream: #EFEEE8;
-  --color-chartreuse: #DDF000;
+  --color-limegreen: #DDF000;
 
   /* ---- 3. Derived shades ---- */
   --color-orange-dark: color-mix(in srgb, var(--color-orange) 75%, black);
@@ -66,4 +67,5 @@ h1, h2, h3 {
   font-family: var(--font-primary);
   font-weight: var(--weight-black);
   color: var(--text-heading);
+
 }
