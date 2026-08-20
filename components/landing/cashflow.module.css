@@ -1,0 +1,13 @@
+.cashflowcard {
+    margin-left: 50%;
+}
+.cashflowheading,
+.checkmarkicon,
+.cashflowinfo {
+    margin-left: 160px;
+}
+.checkmarkicon {
+    width: 15px;
+    filter: invert(79%) sepia(13%) saturate(1143%) hue-rotate(90deg) brightness(86%) contrast(90%);
+    margin-right: 5px;
+}

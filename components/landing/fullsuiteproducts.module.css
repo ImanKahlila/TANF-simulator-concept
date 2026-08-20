@@ -1,0 +1,66 @@
+.fullsuiteproducts {
+    display: flex;
+    margin-left: 40%;
+    margin-bottom: 30px;
+}
+.suiteproductssection {
+    display: flex;
+    gap: 15px;
+    margin-left: 200px;
+}
+
+.iconwallet {
+    padding: 5px;
+    filter: invert(66%) sepia(78%) saturate(4582%) hue-rotate(1deg) brightness(104%) contrast(104%);
+
+}
+.icongraph {
+    padding: 5px;
+    filter: invert(66%) sepia(78%) saturate(4582%) hue-rotate(1deg) brightness(104%) contrast(104%);
+    
+}
+
+.suiteproductsone {
+    background-color: #efefef;
+    border-radius: 10px;
+    width: 270px;
+    height: 140px;
+}
+.suiteproductsinfotwo {
+    display: flex;
+    flex-direction: column;
+    background-color: #efefef;
+    border-radius: 10px;
+    width: 270px;
+    height: 140px;
+}
+.suiteproductsinfothree {
+    display: flex;
+    flex-direction: column;
+    background-color: #efefef;
+    border-radius: 10px;
+    width: 270px;
+    height: 140px;
+}
+.paymentfeatureultimate,
+.paymentfeature {
+    margin-top: -1px;
+    margin-bottom: -1px;
+    margin-left: 5px;
+    font-size: 10px;
+}
+.finance, 
+.financeanalytics {
+    margin-top: -1px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    font-size: 10px;
+    
+}
+.software,
+.intelligentsoftware {
+    margin-top: -1px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    font-size: 10px;
+}

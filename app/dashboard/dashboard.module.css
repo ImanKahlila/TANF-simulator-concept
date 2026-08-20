@@ -1,0 +1,34 @@
+.sidebar {
+    width: 10%;
+    height: 610px;
+    background-color: #16171c;
+}
+.backgroundlogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-limegreen);
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #000;
+}
+.logoname {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: -15px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.sidebarlinks {
+    display: flex;
+    gap: 20px;
+    color: var(--color-limegreen)
+}
