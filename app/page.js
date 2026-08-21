@@ -6,6 +6,7 @@ import HeroSectionCards from "../components/landing/HeroSectionCards";
 import Fintech from "../components/landing/FintechSection";
 import CashFlow from "../components/landing/CashFlowSection";
 import FullSuiteProducts from "../components/landing/FullSuiteProducts";
+import MasterCardSection from "../components/landing/MasterCardSection";
 
 
 
@@ -18,6 +19,7 @@ export default function Page(){
       <Fintech />
       <CashFlow />
       <FullSuiteProducts />
+      <MasterCardSection />
     </>
   )
 }

@@ -1,0 +1,29 @@
+.mastercard {
+    display: flex;
+    margin-top: 5%;
+    width: 100%;
+    height: 300px;
+    background-color: #efefef;
+}
+.mastercardsection {
+    margin-left: 5px;
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+}
+.mastercardsimg {
+    margin-left: 50%;
+    margin-top: 20px;
+}
+.infoItems {
+    margin-left: 10%;
+    margin-top: -20px;
+}
+.financialservices,
+.paragraph,
+.financialtranscation,
+.funding,
+.financeinstitution {
+    margin-left: 10px;
+    margin-bottom: -10px;
+}
